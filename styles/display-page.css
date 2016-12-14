@@ -25,21 +25,21 @@ main {
   height: 300px;
 }
 
-.black {
-  background-color: black;
-  border: 1px solid;
-}
-
 .green {
   background-color: green;
+}
+
+.blue {
+  background-color: blue;
 }
 
 .grey {
   background-color: grey;
 }
 
-.blue {
-  background-color: blue;
+.black {
+  background-color: black;
+  border: 1px solid;
 }
 
 .orange {
