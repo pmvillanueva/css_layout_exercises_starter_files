@@ -20,3 +20,12 @@ main {
   float: right;
   margin-right: 10px;
 }
+
+.left, .right {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.medium {
+  width: 300px;
+}
